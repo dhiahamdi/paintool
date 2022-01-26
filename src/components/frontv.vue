@@ -66,7 +66,6 @@ export default {
   },
   beforeMount() {
     var vm = this;
-    console.log("before Mounted");
     vm.get("imgBack");
   },
   methods: {

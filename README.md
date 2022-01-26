@@ -1,6 +1,15 @@
 # Vue 3 + Vite
+# konva + vue-konva
+# bootstrap
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+welcome to Paintool ^^ 
+paintool is a paint tool , the first step to start using it is by  uploading images to use them as background to draw on .
+after setting the background you can draw shapes (rectangle, cercle, triangle...) with the ability of modifying the color , opacity and thikness of the shapes . also when switching from views the modifications remains .
+
+Timing:
+5 hours to learn about vue + [5 ~ 6] hours of work !
+
+
 
 ## Recommended IDE Setup
 
